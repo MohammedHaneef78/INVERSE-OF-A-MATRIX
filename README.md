@@ -14,7 +14,7 @@ Step 3: Using np.linalg.inv(), create a inverse of the given matrix.
 Step 4: Print the inverse and End the program.
 
 ## Program:
-#Program to find the inverse of a matrix.
+```#Program to find the inverse of a matrix.
 
 #Developed by: MOHAMMED HANEEF M
 
@@ -32,6 +32,7 @@ A = np.array([
 result = np.linalg.inv(A)
 
 print(result)
+```
 
 <img width="1273" height="726" alt="image" src="https://github.com/user-attachments/assets/bcf472a7-d04c-4f9e-bb5a-c076d3310f3c" />
 
